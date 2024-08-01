@@ -170,8 +170,9 @@ section
     text-align: center;
 }
 
-.content .card-body p
+.projectdetail
 {
+    text-align: center;
     font-size: 16px;
     color: black;
 }
